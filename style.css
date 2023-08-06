@@ -38,6 +38,11 @@ button {
   line-height: 125%;
 }
 
+button:hover {
+  cursor: pointer;
+  background-color: #8b5cf6;
+}
+
 #form-habits {
   display: flex;
   padding: 182px 48px 48px;
@@ -89,6 +94,10 @@ input {
   border: 3px solid #27272a;
   border-radius: 8px;
   background: #18181b;
+}
+input:hover {
+  cursor: pointer;
+  background-color: #27272a;
 }
 /*pseudo-selector*/
 input:checked {
