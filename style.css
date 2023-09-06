@@ -95,6 +95,7 @@ input {
   border-radius: 8px;
   background: #18181b;
 }
+
 input:hover {
   cursor: pointer;
   background-color: #27272a;
